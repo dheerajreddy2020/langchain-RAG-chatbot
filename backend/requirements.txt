@@ -1,0 +1,7 @@
+fastapi
+pydantic
+uvicorn
+python-dotenv
+langchain
+langchain-community
+faiss-cpu
