@@ -1,6 +1,6 @@
 # Document Processing Chatbot
 
-This project is a document processing chatbot that uses FastAPI for the backend and React for the frontend. The chatbot allows users to upload documents, process them, and ask questions about the document content using a LangChain-powered Q&A system.
+This project is a document processing chatbot that uses FastAPI for the backend and React for the frontend. The chatbot employs a Retrieval-Augmented Generation (RAG) approach, allowing users to upload documents, process them, and ask questions about the document content using a LangChain-powered Q&A system.
 
 ---
 
