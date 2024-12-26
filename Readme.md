@@ -52,7 +52,12 @@ This project is a document processing chatbot that uses FastAPI for the backend 
    pip install -r requirements.txt
    ```
 
-4. Run the backend server
+4. Create a .env file in the backend folder and add your OpenAI API key:
+   ```plaintext
+   OPENAI_API_KEY=your_openai_api_key
+   ```
+
+5. Run the backend server
    ```bash
    uvicorn main:app --reload
    ```
