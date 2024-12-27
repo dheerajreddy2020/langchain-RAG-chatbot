@@ -1,4 +1,6 @@
-# Document Processing Chatbot
+# RAG Chatbot
+
+![RAG Chatbot Frontend](./assets/RAG-chatbot-frontend.png)
 
 This project is a document processing chatbot that uses FastAPI for the backend and React for the frontend. The chatbot employs a Retrieval-Augmented Generation (RAG) approach, allowing users to upload documents, process them, and ask questions about the document content using a LangChain-powered Q&A system.
 
@@ -88,10 +90,3 @@ This project is a document processing chatbot that uses FastAPI for the backend 
 3. Open the browser and navigate to http://localhost:3000.
 4. Upload documents and interact with the chatbot.
 
----
-
-## RAG Chatbot Frontend
-
-Below is a screenshot of the frontend interface for the RAG chatbot:
-
-![RAG Chatbot Frontend](./assets/RAG-chatbot-frontend.png)
