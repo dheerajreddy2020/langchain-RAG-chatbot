@@ -87,3 +87,11 @@ This project is a document processing chatbot that uses FastAPI for the backend 
 2. Start the frontend server using React.
 3. Open the browser and navigate to http://localhost:3000.
 4. Upload documents and interact with the chatbot.
+
+---
+
+## RAG Chatbot Frontend
+
+Below is a screenshot of the frontend interface for the RAG chatbot:
+
+![RAG Chatbot Frontend](./assets/rag_chatbot_frontend.png)
