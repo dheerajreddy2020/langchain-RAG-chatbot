@@ -94,4 +94,4 @@ This project is a document processing chatbot that uses FastAPI for the backend 
 
 Below is a screenshot of the frontend interface for the RAG chatbot:
 
-![RAG Chatbot Frontend](./assets/rag_chatbot_frontend.png)
+![RAG Chatbot Frontend](./assets/RAG-chatbot-frontend.png)
