@@ -50,10 +50,7 @@ This project is a document processing chatbot that uses FastAPI for the backend 
 
 ### Usage
 
-1. Once Docker Compose starts the services, open your browser and navigate to
-   ```plaintext
-   http://localhost:3000
-   ```
+1. Once Docker Compose starts the services, Open the browser and navigate to http://localhost:3000.
 2. Upload documents and interact with the chatbot.
 
 ---
