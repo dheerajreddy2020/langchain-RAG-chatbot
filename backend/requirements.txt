@@ -1,7 +1,11 @@
 fastapi
+python-multipart
 pydantic
 uvicorn
 python-dotenv
 langchain
 langchain-community
 faiss-cpu
+openai
+pypdf
+tiktoken
