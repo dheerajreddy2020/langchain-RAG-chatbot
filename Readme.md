@@ -32,6 +32,10 @@ This project is a document processing chatbot that uses FastAPI for the backend 
 ### Prerequisites
 
 - Docker and Docker Compose
+- An `.env` file in the root directory containing your OpenAI API key:
+   ```plaintext
+   OPENAI_API_KEY=your_openai_api_key
+   ```
 - Node.js and npm (optional -for testing frontend)
 - Python 3.8 or higher (optional -for testing backend)
 
