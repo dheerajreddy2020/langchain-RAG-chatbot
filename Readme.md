@@ -43,7 +43,12 @@ This project is a document processing chatbot that uses FastAPI for the backend 
    cd langchain-RAG-chatbot
    ```
 
-2. Build and run the application using Docker Compose:
+2. Build the application using Docker Compose:
+   ```bash
+   docker-compose build
+   ```
+
+2. Run the application:
    ```bash
    docker-compose up -d
    ```
