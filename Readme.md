@@ -31,9 +31,38 @@ This project is a document processing chatbot that uses FastAPI for the backend 
 
 ### Prerequisites
 
-- Node.js and npm (for frontend)
-- Python 3.8 or higher (for backend)
-- Virtual environment (optional but recommended)
+- Docker and Docker Compose
+- Node.js and npm (optional -for testing frontend)
+- Python 3.8 or higher (optional -for testing backend)
+
+### Running with Docker Compose
+
+1. Clone the repository and navigate to the backend folder:
+   ```bash
+   git clone https://github.com/dheerajreddy2020/langchain-RAG-chatbot
+   cd langchain-RAG-chatbot
+   ```
+
+2. Build and run the application using Docker Compose:
+   ```bash
+   docker-compose up -d
+   ```
+
+### Usage
+
+1. Once Docker Compose starts the services, open your browser and navigate to
+   ```plaintext
+   http://localhost:3000
+   ```
+2. Upload documents and interact with the chatbot.
+
+---
+
+
+## Development (Optional)
+
+If you want to contribute to the project or make modifications, you can set up the development environment:
+
 
 ### Backend Setup
 
@@ -81,9 +110,7 @@ This project is a document processing chatbot that uses FastAPI for the backend 
    npm start
    ```
 
----
-
-## Usage
+### Usage
 
 1. Start the backend server using FastAPI.
 2. Start the frontend server using React.
