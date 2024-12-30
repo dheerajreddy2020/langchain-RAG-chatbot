@@ -45,12 +45,12 @@ This project is a document processing chatbot that uses FastAPI for the backend 
 
 2. Build the application using Docker Compose:
    ```bash
-   docker-compose build
+   docker compose build
    ```
 
 2. Run the application:
    ```bash
-   docker-compose up -d
+   docker compose up -d
    ```
 
 ### Usage
